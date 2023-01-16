@@ -1,20 +1,20 @@
-::: fg-content-wrap
-::: fg-breadcrumb-wrap
+::: {.fg-content-wrap}
+::: {.fg-breadcrumb-wrap}
 [The UX Research Field Guide](/ux-research-field-guide){.fg-bc-link
 .static}
 
-::: breadcrumb-arrow
+::: {.breadcrumb-arrow}
 \>
 :::
 
 [Introduction](/ux-research-field-guide-module/ux-research-basics){.fg-bc-link
-.w--current aria-current="page"}
+.w--current}
 :::
 
-::: module-header-image-wrap
+::: {.module-header-image-wrap}
 ![a person navigating a collage of browser windows and graphs
 ](https://global-uploads.webflow.com/59b1667dd2e65000019d07be/61a4f0a74b421176517ca6ef_UI_CHAPTER_INTRO_ARTWORK.jpg){.module-header-image
-loading="lazy" sizes="100vw"
+sizes="100vw"
 srcset="https://global-uploads.webflow.com/59b1667dd2e65000019d07be/61a4f0a74b421176517ca6ef_UI_CHAPTER_INTRO_ARTWORK-p-800.jpeg 800w, https://global-uploads.webflow.com/59b1667dd2e65000019d07be/61a4f0a74b421176517ca6ef_UI_CHAPTER_INTRO_ARTWORK-p-1080.jpeg 1080w, https://global-uploads.webflow.com/59b1667dd2e65000019d07be/61a4f0a74b421176517ca6ef_UI_CHAPTER_INTRO_ARTWORK.jpg 1350w"}
 :::
 
@@ -23,7 +23,8 @@ srcset="https://global-uploads.webflow.com/59b1667dd2e65000019d07be/61a4f0a74b42
 :::
 :::
 
-# Introduction {#introduction .fg-h1}
+Introduction {#introduction .fg-h1}
+============
 
 ::: {.div-coming-soon .w-condition-invisible}
 ::: {.coming-soon-text .w-dyn-bind-empty}
@@ -32,7 +33,7 @@ srcset="https://global-uploads.webflow.com/59b1667dd2e65000019d07be/61a4f0a74b42
 ::: {.coming-soon-form .w-form}
 Email Address
 
-::: form-wrap
+::: {.form-wrap}
 ::: {.html-embed-5 .w-embed}
 :::
 :::
@@ -95,7 +96,8 @@ this your MVR (minimum viable research) cheat sheet.
 
 ‍
 
-## Minimum viable user research tips
+Minimum viable user research tips
+---------------------------------
 
 ### Recruit about 5 "good" people
 
@@ -209,7 +211,8 @@ show its importance to your product and customers.\
 
 ‍
 
-## What does User Interviews know about UX research?
+What does User Interviews know about UX research?
+-------------------------------------------------
 
 Quite a lot, as it happens.\
 
@@ -244,7 +247,8 @@ on the power of user research!\
 
 ##### **👋 Read the User Interviews** [**origin story**](#)
 
-## How to use this Field Guide
+How to use this Field Guide
+---------------------------
 
 The UX Research Field Guide is meant to be read cover-to-cover---the
 outline roughly follows the UX research process, and the knowledge you
@@ -330,9 +334,9 @@ In this module:
 ::: {.para-new .fg-mod-cs .w-condition-invisible .w-dyn-bind-empty}
 :::
 
-::: live-chapter-wrap
+::: {.live-chapter-wrap}
 ::: {.toc-chapter-wrap .w-condition-invisible}
-::: toc-header-pill-wrap
+::: {.toc-header-pill-wrap}
 [](#){.toc-h5 .w-condition-invisible .w-dyn-bind-empty}
 
 ::: {.toc-pill-1 .w-condition-invisible}
@@ -353,7 +357,7 @@ In this module:
 :::
 
 ::: {.toc-chapter-wrap .w-condition-invisible}
-::: toc-header-pill-wrap
+::: {.toc-header-pill-wrap}
 [](#){.toc-h5 .w-condition-invisible .w-dyn-bind-empty}
 
 ::: {.toc-pill-1 .w-condition-invisible}
@@ -374,7 +378,7 @@ In this module:
 :::
 
 ::: {.toc-chapter-wrap .w-condition-invisible}
-::: toc-header-pill-wrap
+::: {.toc-header-pill-wrap}
 [](#){.toc-h5 .w-condition-invisible .w-dyn-bind-empty}
 
 ::: {.toc-pill-1 .w-condition-invisible}
@@ -395,7 +399,7 @@ In this module:
 :::
 
 ::: {.toc-chapter-wrap .w-condition-invisible}
-::: toc-header-pill-wrap
+::: {.toc-header-pill-wrap}
 [](#){.toc-h5 .w-condition-invisible .w-dyn-bind-empty}
 
 ::: {.toc-pill-1 .w-condition-invisible}
@@ -416,7 +420,7 @@ In this module:
 :::
 
 ::: {.toc-chapter-wrap .w-condition-invisible}
-::: toc-header-pill-wrap
+::: {.toc-header-pill-wrap}
 [](#){.toc-h5 .w-condition-invisible .w-dyn-bind-empty}
 
 ::: {.toc-pill-1 .w-condition-invisible}
@@ -437,7 +441,7 @@ In this module:
 :::
 
 ::: {.toc-chapter-wrap .w-condition-invisible}
-::: toc-header-pill-wrap
+::: {.toc-header-pill-wrap}
 [](#){.toc-h5 .w-condition-invisible .w-dyn-bind-empty}
 
 ::: {.toc-pill-1 .w-condition-invisible}
@@ -458,7 +462,7 @@ In this module:
 :::
 
 ::: {.toc-chapter-wrap .w-condition-invisible}
-::: toc-header-pill-wrap
+::: {.toc-header-pill-wrap}
 [](#){.toc-h5 .w-condition-invisible .w-dyn-bind-empty}
 
 ::: {.toc-pill-1 .w-condition-invisible}
@@ -479,7 +483,7 @@ In this module:
 :::
 
 ::: {.toc-chapter-wrap .w-condition-invisible}
-::: toc-header-pill-wrap
+::: {.toc-header-pill-wrap}
 [](#){.toc-h5 .w-condition-invisible .w-dyn-bind-empty}
 
 ::: {.toc-pill-1 .w-condition-invisible}
@@ -506,7 +510,7 @@ In this module:
 
 ::: {.live-chapter-wrap .cs-section .w-condition-invisible}
 ::: {.toc-chapter-wrap .cs .w-condition-invisible}
-::: toc-header-pill-wrap
+::: {.toc-header-pill-wrap}
 #####  {#section .toc-h5 .no-link .w-dyn-bind-empty}
 
 ::: {.toc-pill-1 .w-condition-invisible}
@@ -527,7 +531,7 @@ In this module:
 :::
 
 ::: {.toc-chapter-wrap .cs .w-condition-invisible}
-::: toc-header-pill-wrap
+::: {.toc-header-pill-wrap}
 #####  {#section-1 .toc-h5 .no-link .w-dyn-bind-empty}
 
 ::: {.toc-pill-1 .w-condition-invisible}
@@ -548,7 +552,7 @@ In this module:
 :::
 
 ::: {.toc-chapter-wrap .cs .w-condition-invisible}
-::: toc-header-pill-wrap
+::: {.toc-header-pill-wrap}
 #####  {#section-2 .toc-h5 .no-link .w-dyn-bind-empty}
 
 ::: {.toc-pill-1 .w-condition-invisible}
@@ -569,7 +573,7 @@ In this module:
 :::
 
 ::: {.toc-chapter-wrap .cs .w-condition-invisible}
-::: toc-header-pill-wrap
+::: {.toc-header-pill-wrap}
 #####  {#section-3 .toc-h5 .no-link .w-dyn-bind-empty}
 
 ::: {.toc-pill-1 .w-condition-invisible}
@@ -590,7 +594,7 @@ In this module:
 :::
 
 ::: {.toc-chapter-wrap .cs .w-condition-invisible}
-::: toc-header-pill-wrap
+::: {.toc-header-pill-wrap}
 #####  {#section-4 .toc-h5 .no-link .w-dyn-bind-empty}
 
 ::: {.toc-pill-1 .w-condition-invisible}
@@ -611,7 +615,7 @@ In this module:
 :::
 
 ::: {.toc-chapter-wrap .cs .w-condition-invisible}
-::: toc-header-pill-wrap
+::: {.toc-header-pill-wrap}
 #####  {#section-5 .toc-h5 .no-link .w-dyn-bind-empty}
 
 ::: {.toc-pill-1 .w-condition-invisible}
@@ -632,7 +636,7 @@ In this module:
 :::
 
 ::: {.toc-chapter-wrap .cs .w-condition-invisible}
-::: toc-header-pill-wrap
+::: {.toc-header-pill-wrap}
 #####  {#section-6 .toc-h5 .no-link .w-dyn-bind-empty}
 
 ::: {.toc-pill-1 .w-condition-invisible}
@@ -653,7 +657,7 @@ In this module:
 :::
 
 ::: {.toc-chapter-wrap .cs .w-condition-invisible}
-::: toc-header-pill-wrap
+::: {.toc-header-pill-wrap}
 #####  {#section-7 .toc-h5 .no-link .w-dyn-bind-empty}
 
 ::: {.toc-pill-1 .w-condition-invisible}
@@ -679,8 +683,7 @@ In this module:
 ::: {.fg-cta .module}
 ##### Subscribe to the Field Guide for fresh lessons delivered right to your inbox! {#subscribe-to-the-field-guide-for-fresh-lessons-delivered-right-to-your-inbox .fg-cta-h5}
 
-[Subscribe](#){.button-new .teal .fg-nav .module .w-button
-w-id="b8b1629a-4fff-485e-084c-26e31456a9d6"}
+[Subscribe](#){.button-new .teal .fg-nav .module .w-button}
 :::
 
 ::: {.text-wrapper .fg-body .left}
@@ -690,20 +693,21 @@ don't see what you're looking for?
 :::
 :::
 
-## Explore other modules {#explore-other-modules .h2-new .left}
+Explore other modules {#explore-other-modules .h2-new .left}
+---------------------
 :::
 
 ::: {.w-layout-grid .next-module-grid}
 [](/ux-research-field-guide-module/user-research-fundamentals){.fg-toc-div
 .w-inline-block}
 
-::: {.fg-toc-image-wrap style="background-image:url(\"https://global-uploads.webflow.com/59b1667dd2e65000019d07be/61a4f5f12022e550ca8dd61c_fg-ch%201.png\")"}
+::: {.fg-toc-image-wrap style="background-image:url("https://global-uploads.webflow.com/59b1667dd2e65000019d07be/61a4f5f12022e550ca8dd61c_fg-ch%201.png")"}
 :::
 
-::: toc-text-wrap
-::: toc-number-box
-::: toc-number
-01\.
+::: {.toc-text-wrap}
+::: {.toc-number-box}
+::: {.toc-number}
+01.
 :::
 :::
 
@@ -713,13 +717,13 @@ don't see what you're looking for?
 [](/ux-research-field-guide-module/planning-user-research){.fg-toc-div
 .w-inline-block}
 
-::: {.fg-toc-image-wrap style="background-image:url(\"https://global-uploads.webflow.com/59b1667dd2e65000019d07be/61a4f5f82022e58fa48dd61f_fg-ch%202.png\")"}
+::: {.fg-toc-image-wrap style="background-image:url("https://global-uploads.webflow.com/59b1667dd2e65000019d07be/61a4f5f82022e58fa48dd61f_fg-ch%202.png")"}
 :::
 
-::: toc-text-wrap
-::: toc-number-box
-::: toc-number
-02\.
+::: {.toc-text-wrap}
+::: {.toc-number-box}
+::: {.toc-number}
+02.
 :::
 :::
 
